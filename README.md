@@ -1,4 +1,4 @@
-#Computer Programming I (Java)
+#CSC111: Computer Programming I (Java)
 
 This repository contains all coursework, lab implementations, and academic projects completed for **CSC111** (Computer Programming I) at King Saud University. The codebase highlights the engineering progression from structured procedural programming to modular Object-Oriented Programming (OOP) architectures.
 
